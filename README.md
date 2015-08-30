@@ -9,3 +9,4 @@ Requirement: Django 1.5, Scrapy, scrapy-djangoitem. Use 'pip' to install necessa
 5. Run scrapy crawl intergrate
 6. Check db
 
+
